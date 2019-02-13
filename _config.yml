@@ -7,7 +7,7 @@ url: "https://excited233.github.io/flash-my-phone/"
 
 
 # Secondary Parameters
-baseurl: "/flash-my-phone/"
+baseurl: "/flash-my-phone"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
