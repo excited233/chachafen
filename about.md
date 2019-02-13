@@ -22,3 +22,9 @@ header-img: "img/home-bg.jpg"
 酷安[个人主页](http://www.coolapk.com/u/709227)
 
 使用[酷安](coolmarket://u/709227)打开
+
+####说明
+
+* 此页面基于[Github Pages](https://pages.github.com/)。
+
+* 此页面使用了Jekyll主题[Project Pages](https://github.com/projectpages)。
