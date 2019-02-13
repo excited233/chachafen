@@ -1,21 +1,21 @@
 # Site settings
-title: 老子要刷机
-description: "刷机资源聚合工具"
+title: 查查分
+description: "查查别人多少分"
 url: "https://excited233.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/flash-my-phone"
+baseurl: "/chachafen"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /flash-my-phone/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /chachafen/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  excited233
-project_repository: flash-my-phone
-disqus_shortname: flash-my-phone
+project_repository: chachafen
+disqus_shortname: chachafen
 g-analytics: UA-75881392-1
 altmetric: true
 
@@ -41,7 +41,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'https://excited233.github.io/flash-my-phone/'
+  siteurl: 'https://excited233.github.io/chachafen/'
   ispp: true
   media: 'img'
   metadata:
@@ -106,7 +106,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="https://excited233.github.io/flash-my-phone/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="https://excited233.github.io/chachafen/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -114,7 +114,7 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="https://excited233.github.io/flash-my-phone/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="https://excited233.github.io/chachafen/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"
