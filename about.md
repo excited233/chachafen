@@ -5,7 +5,7 @@ description: "关于老子要刷机"
 header-img: "img/home-bg.jpg"
 ---
 
-##老子要刷机
+###老子要刷机
 
 诞生于**2018.09.01**，是一款使用[FusionApp](https://www.coolapk.com/apk/cn.coldsong.fusionapp)集合刷机资源的软件。
 
@@ -15,7 +15,7 @@ header-img: "img/home-bg.jpg"
 
 ---
 
-##作者
+###作者
 
 酷安@**Too_young**
 
