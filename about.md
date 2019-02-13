@@ -23,7 +23,9 @@ header-img: "img/home-bg.jpg"
 
 使用[酷安](coolmarket://u/709227)打开
 
-####说明
+---
+
+#### 说明
 
 * 此页面基于[Github Pages](https://pages.github.com/)。
 
