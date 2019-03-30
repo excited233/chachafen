@@ -1,13 +1,14 @@
-[新版本号:29:END]
-[新版本:1.2.5:END]
+[新版本号:30:END]
+[新版本:1.2.6:END]
 [更新日志:更新日志：
+-紧急修复查分失败的问题
 -细节优化
 -查分界面优化
 -Android Pie风格对话框
 -主题功能优化:END]
-[下载链接:https://www.lanzous.com/i3lwv0h:END]
+[下载链接:https://www.lanzous.com/i3m0apa:END]
 [立即下载按钮:立即下载:END]
-[下载直链:http://wl.uixsj.cn/data/20190330191758.png:END]
+[下载直链:http://wl.uixsj.cn/data/20190330232032.png:END]
 [新消息:喜大普奔！查查分终于有官网了！
 此应用未制作完成，不代表最终品质。
 此应用仅供学习参考。
