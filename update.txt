@@ -1,16 +1,15 @@
-[新版本号:38:END]
-[新版本:1.3.3:END]
+[新版本号:39:END]
+[新版本:1.3.4:END]
 [更新日志:更新日志：
--功能更新：简版成绩界面显示
--加载界面支持刷新、退出
--修复ScrollView的一个bug
--修复查看全班成绩的一个bug
--性能优化
+-首页视觉更新
+-支持查看登录用户信息
+-支持更改查分学校ID
+-退出登录优化
 
 如下载失败请尝试备用下载:END]
-[下载链接:https://www.lanzous.com/i3zcamh:END]
+[下载链接:https://www.lanzous.com/i46wbib:END]
 [立即下载按钮:立即下载:END]
-[下载直链:http://wl.uixsj.cn/data/201905192944.png:END]
+[下载直链:https://github.com/excited233/chachafen/releases/download/1.3.4/1.3.4.apk:END]
 [新消息:喜大普奔！查查分终于有官网了！
 此应用未制作完成，不代表最终品质。
 此应用仅供学习参考。
