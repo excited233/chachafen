@@ -13,14 +13,11 @@
 [下载链接:https://www.lanzous.com/i3rdtre:END]
 [立即下载按钮:立即下载:END]
 [下载直链:http://wl.uixsj.cn/data/20190413132025.png:END]
-[新消息:喜大普奔！查查分终于有官网了！
-此应用未制作完成，不代表最终品质。
-此应用仅供学习参考。
-自己用用就行，请不要传播给他人。:END]
-[版权内容:Copyright 2017-2019 1171603:END]
+[新消息::END]
+[版权内容:Copyright 2017-2019 ???:END]
 [关于标题:关于:END]
 [关闭按钮:关闭:END]
-[链接按钮:官网:END]
+[链接按钮::END]
 [打开链接:https://excited233.github.io/chachafen/:END]
 [停用:停:END]
 [停用标题:7:END]
