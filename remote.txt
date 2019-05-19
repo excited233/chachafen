@@ -1,0 +1,3 @@
+function 关于()
+  print("暂无内容")
+end
