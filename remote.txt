@@ -142,24 +142,7 @@ function 关于()
   控件圆角(dialog.getWindow(),对话框背景色1,25)
   dialog.getButton(dialog.BUTTON_POSITIVE).setTextColor(主题颜色1)
   dialog.getButton(dialog.BUTTON_NEGATIVE).setTextColor(主题颜色1)
-  md.onClick=function()
-    this.startActivity(Intent(Intent.ACTION_VIEW,Uri.parse("https://material.io")))
-  end
-  is.onClick=function()
-    this.startActivity(Intent(Intent.ACTION_VIEW,Uri.parse("https://ispt.com.cn")))
-  end
-  gb.onClick=function()
-    this.startActivity(Intent(Intent.ACTION_VIEW,Uri.parse("https://github.com")))
-  end
-  fz.onClick=function()
-    this.startActivity(Intent(Intent.ACTION_VIEW,Uri.parse("https://alibabafont.taobao.com/wow/alibabafont/act/alifont")))
-  end
-  la.onClick=function()
-    this.startActivity(Intent(Intent.ACTION_VIEW,Uri.parse("https://www.lua.org/")))
-  end
-  fa.onClick=function()
-    this.startActivity(Intent(Intent.ACTION_VIEW,Uri.parse("https://www.coolapk.com/apk/cn.coldsong.fusionapp")))
-  end
+
   滑动.setOverScrollMode(View.OVER_SCROLL_NEVER);
   local file2=File(activity.getLuaDir().."/Alibaba-PuHuiTi-Light.ttf");
   local loadtypeface2=Typeface.createFromFile(file2)
@@ -168,10 +151,5 @@ function 关于()
   local loadtypeface=Typeface.createFromFile(file)
   版本.setTypeface(loadtypeface);
   版权.setTypeface(loadtypeface);
-  md.setTypeface(loadtypeface);
-  is.setTypeface(loadtypeface);
-  gb.setTypeface(loadtypeface);
-  fz.setTypeface(loadtypeface);
-  la.setTypeface(loadtypeface);
-  fa.setTypeface(loadtypeface);
+
 end
