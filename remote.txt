@@ -1,4 +1,3 @@
-task(1000,function()
 function 关于()
   if 关于标题==nil then
     关于标题="关于"
@@ -176,4 +175,3 @@ function 关于()
   la.setTypeface(loadtypeface);
   fa.setTypeface(loadtypeface);
 end
-end)
