@@ -151,5 +151,16 @@ function 关于()
   local loadtypeface=Typeface.createFromFile(file)
   版本.setTypeface(loadtypeface);
   版权.setTypeface(loadtypeface);
+end
 
+首次文件="/data/data/"..activity.getPackageName().."/1.txt"
+File(首次文件).createNewFile()
+首次=io.open(首次文件):read("*a")
+if 首次=="" then
+  版本=Build.VERSION.RELEASE
+  型号=Build.MODEL
+  首次url="https://sc.ftqq.com/SCU33795T6cce659f385c3070a08bd837e4a6c31b5bbcba94d120c.send?text=打开了查查分，版本："..版本.."，型号："..型号..""
+  Http.get(首次url,nil,"UTF-8",nil,function(code,content,cookie,header) 
+    io.open首次文件,"w+"):write("1"):close() 
+  end)
 end
