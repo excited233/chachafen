@@ -1,9 +1,11 @@
-[新版本号:48:END]
-[新版本:1.4.5:END]
+[新版本号:49:END]
+[新版本:1.4.6:END]
 [更新日志:更新日志：
--性能优化，显著提升使用流畅度
+-支持应用内快速登录
+-提高登录速度
+-优化使用体验
 -BUG修复:END]
-[下载链接:https://www.lanzous.com/i4smagf/:END]
+[下载链接:https://www.lanzous.com/i4vvoxi/:END]
 [立即下载按钮::END]
 [下载直链::END]
 [新消息:暂无内容:END]
