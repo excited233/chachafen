@@ -26,7 +26,7 @@
 -修复 网络不佳时的报错问题
 -修复 网页登录后不自动刷新状态的问题
 -修复 若干BUGs:END]
-[下载链接:https://www.lanzous.com/i5cdlqh/:END]
+[下载链接:https://www.lanzous.com/i5ce12j/:END]
 [立即下载按钮::END]
 [下载直链::END]
 [新消息:IS平台服务器目前已恢复正常，可正常使用查查分。:END]
