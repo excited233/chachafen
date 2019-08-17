@@ -24,11 +24,11 @@
 [黑名单:【9】1171603【9】:END]
 [密码:12356565:END]
 
-[标题图片:http://excited233.github.io/chachafen/icon/extension.png:END]
+[标题图片:https://s2.ax1x.com/2019/08/17/mnfaY8.png:END]
 [标题:检测更新:END]
 [内容:改进检测更新提示窗口:END]
 
-[标题图片:http://excited233.github.io/chachafen/icon/more_vert.png:END]
+[标题图片:https://s2.ax1x.com/2019/08/17/mnfdfS.png:END]
 [标题:其他:END]
 [内容:优化应用的流畅度
 提高应用的安全性和稳定性:END]
