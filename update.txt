@@ -1,9 +1,9 @@
-[新版本号:61:END]
-[新版本:1.6.1:END]
+[新版本号:62:END]
+[新版本:1.6.2:END]
 [更新日志:更新日志：
 优化应用的流畅度
 提高应用的安全性和稳定性:END]
-[下载链接:https://www.lanzous.com/i5jux5c/:END]
+[下载链接:https://www.lanzous.com/i5nnlmj/:END]
 [立即下载按钮::END]
 [下载直链::END]
 [新消息:IS平台服务器目前已恢复正常，可正常使用查查分。:END]
