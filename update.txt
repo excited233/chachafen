@@ -4,7 +4,7 @@
 注意：1.6.3版本更换了检测更新方式，如低于此版本，需升级至1.6.3才能升至更高版本。
 修复若干bug
 本次升级请使用备用下载:END]
-[下载链接:https://www.lanzous.com/i5xyslg/:END]
+[下载链接:https://www.lanzous.com/i5xz3zg/:END]
 [立即下载按钮::END]
 [下载直链::END]
 [新消息:IS平台服务器目前已恢复正常，可正常使用查查分。:END]
