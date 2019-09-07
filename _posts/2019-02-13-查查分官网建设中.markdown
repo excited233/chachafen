@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      查查分官网，在此。
-author:     1171603
+title:      查查分官网建设中
+author:     Too_young
 tags: 		
-subtitle:   查查分终于有官网了！
+subtitle:   查查分官网建设中
 category:  
 visualworkflow: true
 ---
