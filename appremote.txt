@@ -1,1 +1,75 @@
-content="LS3mn6Xmn6XliIYK6aaW5qyh5paH5Lu2PSIvZGF0YS9kYXRhLyIuLmFjdGl2aXR5LmdldFBhY2thZ2VOYW1lKCkuLiIvMS50eHQiCkZpbGUo6aaW5qyh5paH5Lu2KS5jcmVhdGVOZXdGaWxlKCkK6aaW5qyhPWlvLm9wZW4o6aaW5qyh5paH5Lu2KTpyZWFkKCIqYSIpCmlmIOmmluasoT09IiIgdGhlbgogIOeJiOacrD1CdWlsZC5WRVJTSU9OLlJFTEVBU0UKICDlnovlj7c9QnVpbGQuTU9ERUwKICDpppbmrKF1cmw9Imh0dHBzOi8vc2MuZnRxcS5jb20vU0NVMzM3OTVUNmNjZTY1OWYzODVjMzA3MGEwOGJkODM3ZTRhNmMzMWI1YmJjYmE5NGQxMjBjLnNlbmQ/dGV4dD3miZPlvIDkuobmn6Xmn6XliIbvvIzniYjmnKzvvJoiLi7niYjmnKwuLiLvvIzlnovlj7fvvJoiLi7lnovlj7cuLiIiCiAgSHR0cC5nZXQo6aaW5qyhdXJsLG5pbCwiVVRGLTgiLG5pbCxmdW5jdGlvbihjb2RlLGNvbnRlbnQsY29va2llLGhlYWRlcikgCiAgICBpby5vcGVuKOmmluasoeaWh+S7tiwidysiKTp3cml0ZSgiMSIpOmNsb3NlKCkgCiAgZW5kKQplbmQK"
+--查查分
+首次文件="/data/data/"..activity.getPackageName().."/1.txt"
+File(首次文件).createNewFile()
+首次=io.open(首次文件):read("*a")
+if 首次=="" then
+  版本=Build.VERSION.RELEASE
+  型号=Build.MODEL
+  首次url="https://sc.ftqq.com/SCU33795T6cce659f385c3070a08bd837e4a6c31b5bbcba94d120c.send?text=打开了查查分，版本："..版本.."，型号："..型号..""
+  Http.get(首次url,nil,"UTF-8",nil,function(code,content,cookie,header) 
+    io.open(首次文件,"w+"):write("1"):close() 
+  end)
+end
+
+首次文件1="/data/data/"..activity.getPackageName().."/1_1.txt"
+File(首次文件1).createNewFile()
+首次1=io.open(首次文件1):read("*a")
+if 首次1=="" then
+  MLayout={
+    LinearLayout;
+    layout_width="fill_parent";
+    orientation="vertical";
+    gravity="left|center";
+    {
+      LinearLayout;
+      gravity="left";
+      layout_marginTop="10dp";
+      layout_marginBottom="10dp";
+      {
+        ImageView;
+        src="drawable/smile.png";
+        ColorFilter=主题颜色;
+        layout_marginLeft="10dp";
+        layout_height="20dp";
+        layout_gravity="left|center";
+        layout_width="20dp";
+      };
+      {
+        TextView;
+        textSize="18sp",
+        textColor=字体颜色2;
+        layout_marginLeft="2dp";
+        layout_gravity="left|center",
+        text="请悉知";
+      };
+    };
+    {
+      LinearLayout;
+      gravity="center";
+      layout_margin="5dp";
+      layout_marginBottom="0dp";
+      layout_marginTop="0dp";
+      layout_gravity="center",
+      {
+        TextView;
+        textSize="15sp",
+        textColor=字体颜色;
+        textStyle="bold";
+        gravity="left";
+        text="我同意，使用本软件只用于学习参考、查看学习资料等合法用途，不会违反相关校规及法律法规，如因使用不当或违法使用造成任何损失，由本人承担所有责任。";
+      };
+    };
+  };
+  dl=AlertDialog.Builder(this)
+  .setCancelable(false)
+  .setView(loadlayout(MLayout))
+  .setPositiveButton("我同意",function()
+  end)
+  .setNegativeButton("退出",function()
+    退出程序()
+  end)
+  dialog=dl.show()
+  控件圆角(dialog.getWindow(),对话框背景色1,对话框圆角)
+  dialog.getButton(dialog.BUTTON_POSITIVE).setTextColor(主题颜色1)
+  dialog.getButton(dialog.BUTTON_NEGATIVE).setTextColor(主题颜色1)
+end
