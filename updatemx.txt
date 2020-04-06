@@ -25,5 +25,5 @@
 [停用按钮:退出:END]
 [停用按钮1:下载:END]
 [停用链接:https://www.lanzous.com/i5gq58f:END]
-[黑名单:1171603:END]
-[密码:12356565:END]
+[黑名单:1:END]
+[密码::END]
