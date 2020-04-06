@@ -22,8 +22,8 @@
 [远程:true:END]
 [反馈:true:END]
 [停用链接::END]
-[黑名单:【9】1171603【9】:END]
-[密码:12356565:END]
+[黑名单:【9】1【9】:END]
+[密码::END]
 
 [标题图片:drawable/warning.png:END]
 [标题:注意:END]
