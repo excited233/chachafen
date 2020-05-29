@@ -2,5 +2,5 @@
 layout: page
 title: "时钟"
 description: ""
-header-img: ""
+header-img: "img/home-bg.jpg"
 ---
